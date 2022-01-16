@@ -23,7 +23,7 @@
     <groupId>org.mybatis</groupId>
     <artifactId>mybatis-parent</artifactId>
     <version>33</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>mybatis</artifactId>
@@ -165,7 +165,7 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-log4j12</artifactId>
-      <version>1.7.30</version>
+      <version>1.7.32</version>
       <optional>true</optional>
     </dependency>
     <dependency>
@@ -405,7 +405,7 @@
         </property>
       </activation>
       <properties>
-        <excludedGroups />
+        <excludedGroups/>
       </properties>
     </profile>
   </profiles>

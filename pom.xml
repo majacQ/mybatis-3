@@ -23,7 +23,7 @@
     <groupId>org.mybatis</groupId>
     <artifactId>mybatis-parent</artifactId>
     <version>33</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>mybatis</artifactId>
@@ -152,7 +152,7 @@
     <dependency>
       <groupId>org.javassist</groupId>
       <artifactId>javassist</artifactId>
-      <version>3.28.0-GA</version>
+      <version>3.29.0-GA</version>
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
@@ -405,7 +405,7 @@
         </property>
       </activation>
       <properties>
-        <excludedGroups />
+        <excludedGroups/>
       </properties>
     </profile>
   </profiles>
